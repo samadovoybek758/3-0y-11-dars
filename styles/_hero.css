@@ -3,6 +3,26 @@
     align-items: center;
     justify-content: center;
 }
-.hero__continer-2{
-    margin: 0 auto;
+.hero__continer h1{
+    margin: 40px 6%;
+    width: 100%;
+    font-size: calc(1.525rem + 3.3vw);
+    max-width: 667px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.hero__img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-top: 50px;
+}
+.hero__continer p{
+    margin: 20px 6%;
+    width: 100%;
+    max-width: 667px;
+    text-align: center;
+    font-size: calc(1.275rem + .3vw);
 }
